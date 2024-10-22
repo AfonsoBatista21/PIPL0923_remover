@@ -1,4 +1,4 @@
-from Quadrado import Quadrado
+from Exercicios.Quadrado import Quadrado
 
 q1 = Quadrado(4, "Amarelo")
 

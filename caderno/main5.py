@@ -1,4 +1,4 @@
-import caderno.utils as utl
+import Exercicios.utils as utl
 
 utl.func_a()
 utl.func_b()
